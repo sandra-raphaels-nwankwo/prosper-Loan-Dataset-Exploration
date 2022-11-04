@@ -1,3 +1,7 @@
+# (Prosper Loan Data Exploration)
+## by (Sandra Nwankwo)
+
+
 ## Dataset
 
 > Loan Data from Prosper is a financial dataset related to the loan, borrowers, lenders, interest rates, and stuff like that. It contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. Prosper is a San Francisco, California-based company specializing in loans at low-interest rates to borrowers. The company became the first firm to enter the peer-to-peer lending arena when it launched in 2005. In this dataset, we are using the data from Prosper to analyze it and try to find the pattern in the Prosper data.
